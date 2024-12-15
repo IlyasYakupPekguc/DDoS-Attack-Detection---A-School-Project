@@ -1,0 +1,11 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore unnecessary system files
+.DS_Store
+
+# Ignore model files
+*.pkl
+
+# Ignore dataset files
+*.csv
